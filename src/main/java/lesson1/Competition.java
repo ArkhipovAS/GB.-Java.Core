@@ -5,12 +5,13 @@ public class Competition {
 
     public static void main(String[] args) {
         User[] user = new User[3];
-        Course[] carr = new Course[2];
+        Course[] carr = new Course[3];
         user[0] = new Human("Vasya");
         user[1] = new Robot("Verter");
         user[2] = new Cat("Barsik");
         carr[0] = new Treadmill(1000);
         carr[1] = new Wall(2);
+        carr[2] = new Wall(2);
         
 
         for (User u : user) {
