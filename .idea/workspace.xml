@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcf57e0b-fef1-4e7d-88d8-141f68a6a45b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/MyWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/TestCol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/TestCol.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,75 +27,29 @@
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="16" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3645" />
+          <entry key="JAVA" value="4614" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2261">
-              <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
-              <folding>
-                <element signature="e#5877#5878#0" expanded="true" />
-                <element signature="e#5913#5914#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/Robot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/Treadmill.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,20 +76,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArraySizeException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -141,11 +93,74 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArrayDataException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+            <state relative-caret-position="119">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/TestCol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/Chat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/MyWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2912#2913#0" expanded="true" />
+                <element signature="e#2958#2959#0" expanded="true" />
+                <element signature="e#3113#3114#0" expanded="true" />
+                <element signature="e#3147#3148#0" expanded="true" />
+                <element signature="e#2999#3164#0" expanded="true" />
+                <element signature="e#3163#3164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/PhoneBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#157#182#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#360#368#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,6 +196,11 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson2/MyArrayDataException.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson2/MyArraySizeException.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson2/MyArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/TestCol.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/Chat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/MyWindow.java" />
       </list>
     </option>
   </component>
@@ -189,6 +209,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -202,6 +229,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,15 +262,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="genericslesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GB.Java.Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="genericslesson" type="b2602c69:ProjectViewProjectNode" />
@@ -283,16 +304,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586254987692" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586843482679" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -307,13 +329,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyArray">
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.Cat" />
+  <component name="RunManager" selected="Application.Chat">
+    <configuration name="Chat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.Chat" />
       <module name="GB.Java.Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.Human" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +382,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.Robot" />
+    <configuration name="TestCol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.TestCol" />
       <module name="GB.Java.Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +396,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Cat" />
-      <item itemvalue="Application.Robot" />
       <item itemvalue="Application.Competition" />
       <item itemvalue="Application.MyArraySizeException" />
       <item itemvalue="Application.MyArray" />
+      <item itemvalue="Application.TestCol" />
+      <item itemvalue="Application.Chat" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chat" />
+        <item itemvalue="Application.TestCol" />
         <item itemvalue="Application.MyArray" />
         <item itemvalue="Application.MyArraySizeException" />
         <item itemvalue="Application.Competition" />
-        <item itemvalue="Application.Robot" />
-        <item itemvalue="Application.Cat" />
       </list>
     </recent_temporary>
   </component>
@@ -407,18 +429,19 @@
       <workItem from="1585233850068" duration="7723000" />
       <workItem from="1585321581142" duration="6081000" />
       <workItem from="1585559347651" duration="18974000" />
-      <workItem from="1586240404396" duration="7868000" />
+      <workItem from="1586240404396" duration="8558000" />
+      <workItem from="1586749537716" duration="15081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50481000" />
+    <option name="totallyTimeSpent" value="66252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28290468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,6 +461,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -456,9 +480,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -537,31 +558,155 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArraySizeException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArrayDataException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-          <folding>
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/MyArrayDataException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/PhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#182#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#360#368#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/TestCol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/Chat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/MyWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2958#2959#0" expanded="true" />
+            <element signature="e#3113#3114#0" expanded="true" />
+            <element signature="e#3147#3148#0" expanded="true" />
+            <element signature="e#2999#3164#0" expanded="true" />
+            <element signature="e#3163#3164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GB.Java.Core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
