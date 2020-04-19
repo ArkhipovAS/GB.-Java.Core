@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class TestCount {
-    static final int size = 100;
+    static final int size = 10_000_000;
     static final int h = size / 2;
     static final int offset = h;
     float[] arr = new float[size];
@@ -19,7 +19,6 @@ public class TestCount {
         }
         System.arraycopy(arr, 0, arr1, 0, h);
         System.arraycopy(arr, h, arr2, 0, h);
-//        Arrays.fill(arr, 1);
     }
 
     public float[] oneThread (TestCount tc){
@@ -28,7 +27,6 @@ public class TestCount {
         Thread thrd1 = new Thread(new TestThread(tc.arr, size,0));
         thrd1.setName("Thread 1");
         thrd1.start();
-//        System.out.println(Thread.currentThread().isAlive());
         try {
             thrd1.join();
         } catch (InterruptedException e) {
@@ -57,19 +55,11 @@ public class TestCount {
         System.arraycopy(arr2, 0, arrDouble, h, h);
         System.out.println("Execution time "+ ": " + (System.currentTimeMillis() - a));
         return arrDouble;
-
     }
-
-
-
 
     public static void main(String[] args) {
         TestCount tc = new TestCount();
         tc.FillArr();
-
         System.out.println(Arrays.equals(tc.oneThread(tc), tc.doubleThread(tc)));
-
-
-
     }
 }
