@@ -88,7 +88,7 @@ public class ClientHandler {
         while (true) {
 
             try {
-                clientSocket.setSoTimeout(6000);
+                clientSocket.setSoTimeout(120000);
                 System.out.println("Запущен таймаут");
                 Command command = readCommand();
                 if (command == null) {
