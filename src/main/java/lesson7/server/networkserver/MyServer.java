@@ -23,31 +23,31 @@ public class MyServer {
     }
 
     public void start() {
-        try (ServerSocket serverSocket = new ServerSocket(port)) {
-            System.out.println("Server is running");
-            authService.start();
-
-
-            //noinspection InfiniteLoopStatement
-            while (true) {
-                System.out.println("Waiting for client connection...");
-                Socket clientSocket = serverSocket.accept();
-                System.out.println("Client has been connected");
-                ClientHandler handler = new ClientHandler(clientSocket, this);
-                try {
-                    handler.handle();
-                } catch (IOException e) {
-                    System.err.println("Failed to handle client connectiion!");
-                    clientSocket.close();
-                }
-            }
-
-        } catch (IOException e) {
-            System.err.println(e.getMessage());
-            e.printStackTrace();
-        } finally {
-            authService.stop();
-        }
+//        try (ServerSocket serverSocket = new ServerSocket(port)) {
+//            System.out.println("Server is running");
+//            authService.start();
+//
+//
+//            //noinspection InfiniteLoopStatement
+//            while (true) {
+//                System.out.println("Waiting for client connection...");
+//                Socket clientSocket = serverSocket.accept();
+//                System.out.println("Client has been connected");
+//                ClientHandler handler = new ClientHandler(clientSocket, this);
+//                try {
+//                    handler.handle();
+//                } catch (IOException e) {
+//                    System.err.println("Failed to handle client connectiion!");
+//                    clientSocket.close();
+//                }
+//            }
+//
+//        } catch (IOException e) {
+//            System.err.println(e.getMessage());
+//            e.printStackTrace();
+//        } finally {
+//            authService.stop();
+//        }
     }
 
     public AuthService getAuthService() {

@@ -6,8 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GB.Java.Core" />
+        <module name="NetworkClient" />
+        <module name="NetworkClientServer" />
+        <module name="NetworkServer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test" target="9" />
+      <module name="Test" target="9" />
+    </bytecodeTargetLevel>
   </component>
 </project>
